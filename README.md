@@ -35,6 +35,6 @@ The platform combines:
 
 ## **Demo and Resources**
 - **Live Prototype**: [Drive2 on FlutterFlow](https://app.flutterflow.io/project/tdpp-85b1le)
-- **GitHub Repository (Backend)**: [TDP Backend Code]
+- **GitHub Repository (Backend)**
 - **Figma Design**: [UI/UX Design](https://www.figma.com/community/file/1457978059192062319/tdp-ui-design)
-- **Documentation**: (https://liveswinburneeduau-my.sharepoint.com/:b:/g/personal/103128918_student_swin_edu_au/EXysUKWkv6FPuNu5oqmapuABIFyKz5KEGoPsOcGqKY1PJQ?e=dZ0SsZ)
+- **Documentation**: [Link](https://liveswinburneeduau-my.sharepoint.com/:b:/g/personal/103128918_student_swin_edu_au/EXysUKWkv6FPuNu5oqmapuABIFyKz5KEGoPsOcGqKY1PJQ?e=dZ0SsZ)
