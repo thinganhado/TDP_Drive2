@@ -1,7 +1,7 @@
 # **Drive2: A Carpooling Platform for Urban Mobility**
 
 ## **Project Overview**
-Drive2 is an innovative carpooling platform designed to tackle urban mobility challenges in Melbourne by reducing single-occupancy vehicles on the road. By leveraging advanced technology, it optimizes ride-sharing, integrates social matching, and promotes environmentally conscious choices.
+Drive2 is a tripsharing platform designed to tackle urban mobility challenges in Melbourne by reducing single-occupancy vehicles on the road. By leveraging advanced technology, it optimizes ride-sharing, integrates social matching, and promotes environmentally conscious choices.
 
 The platform combines:
 - **Automated vehicle validation** using the VicRoads API.
